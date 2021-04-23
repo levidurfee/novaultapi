@@ -1,5 +1,5 @@
 name = "novaultapi"
-type = "javascript"
+type = "webpack"
 
 account_id = "fd2024a0cea92000209057ebf2cc1ce0"
 workers_dev = false
