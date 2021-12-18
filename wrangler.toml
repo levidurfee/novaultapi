@@ -5,3 +5,4 @@ account_id = "fd2024a0cea92000209057ebf2cc1ce0"
 workers_dev = false
 route = "api.novault.pw/*"
 zone_id = "a35d88572bfd8cc99fa9cd48deee28e6"
+compatibility_date = "2021-12-18"
